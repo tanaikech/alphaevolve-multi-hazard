@@ -1,0 +1,174 @@
+{
+  "evaluation_timestamp": "2026-10-14T10:30:20.022037",
+  "algorithm": "AlphaEvolve Unified Multi-Hazard Dispatcher",
+  "model": "gemini-3.8-flash",
+  "hazards": {
+    "rain": {
+      "total": 15,
+      "detected": 15,
+      "events": {
+        "rain_01_fuchu_20170718": {
+          "name": "Fuchu Guerrilla Storm (2017-07-18)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2017-07-18 14:30:00"
+        },
+        "rain_02_nerima_20170830": {
+          "name": "Nerima Convective Storm (2017-08-30)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2017-08-30 15:30:00"
+        },
+        "rain_03_setagaya_20180827": {
+          "name": "Setagaya Convective Storm (2018-08-27)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2018-08-27 16:30:00"
+        },
+        "rain_04_kinki_nose_20180824": {
+          "name": "Kinki Nose Convective Storm (2018-08-24)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2018-08-24 19:30:00"
+        },
+        "rain_05_tamagawa_20170819": {
+          "name": "Tamagawa Convective Storm (2017-08-19)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2017-08-19 16:30:00"
+        },
+        "rain_06_nagoya_meito_20170729": {
+          "name": "Nagoya Meito Convective Storm (2017-07-29)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2017-07-29 15:30:00"
+        },
+        "rain_07_kansai_autumn_20180908": {
+          "name": "Kansai Autumn Front Storm (2018-09-08)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2018-09-08 04:30:00"
+        },
+        "rain_08_typhoon18_20170917": {
+          "name": "Typhoon 18 Talim (2017-09-17)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2017-09-17 12:30:00"
+        },
+        "rain_09_typhoon21_20171022": {
+          "name": "Typhoon 21 Lan (2017-10-22)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2017-10-22 18:30:00"
+        },
+        "rain_10_typhoon12_20180728": {
+          "name": "Typhoon 12 Jongdari Loop (2018-07-28)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2018-07-28 20:30:00"
+        },
+        "rain_11_typhoon21_20180904": {
+          "name": "Typhoon 21 Jebi Landfall (2018-09-04)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2018-09-04 12:30:00"
+        },
+        "rain_12_typhoon20_20180823": {
+          "name": "Typhoon 20 Cimaron (2018-08-23)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2018-08-23 20:30:00"
+        },
+        "rain_13_typhoon07_20260816": {
+          "name": "Typhoon 07 Ampil (2026-08-16)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2026-08-16 14:30:00"
+        },
+        "rain_14_heavy_westjapan_20180705": {
+          "name": "West Japan Heavy Rain (2018-07-05)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2018-07-05 14:30:00"
+        },
+        "rain_15_heavy_kyushu_20170705": {
+          "name": "Kyushu Northern Heavy Rain (2017-07-05)",
+          "detected": true,
+          "peak_convective_score": 1.0,
+          "first_alert_time": "2017-07-05 13:30:00"
+        }
+      }
+    },
+    "earthquake": {
+      "total": 4,
+      "detected": 4,
+      "events": {
+        "eq_01_fukushima_20161122": {
+          "name": "Fukushima Offshore M7.4 (2016-11-22)",
+          "detected": true,
+          "max_lpar": 6.01,
+          "first_alert_time": "2016-11-22 12:00:00"
+        },
+        "eq_02_osaka_20180618": {
+          "name": "Northern Osaka M6.1 (2018-06-18)",
+          "detected": true,
+          "max_lpar": 6.01,
+          "first_alert_time": "2018-06-18 14:00:00"
+        },
+        "eq_03_iburi_20180906": {
+          "name": "Hokkaido Iburi-Tobu M6.7 (2018-09-06)",
+          "detected": true,
+          "max_lpar": 6.02,
+          "first_alert_time": "2018-09-06 10:00:00"
+        },
+        "eq_04_kumamoto_20260728": {
+          "name": "Kumamoto M7.1 (2026-07-28)",
+          "detected": true,
+          "max_lpar": 6.02,
+          "first_alert_time": "2026-07-28 11:00:00"
+        }
+      }
+    },
+    "volcano": {
+      "total": 2,
+      "detected": 2,
+      "events": {
+        "volcano_01_kusatsu_20180123": {
+          "name": "Mt. Kusatsu-Shirane Phreatic Explosion (2018-01-23)",
+          "detected": true,
+          "max_semblance": 0.942,
+          "first_alert_time": "2018-01-23 19:00:00"
+        },
+        "volcano_02_shinmoedake_20180306": {
+          "name": "Mt. Shinmoedake Explosive Eruption (2018-03-06)",
+          "detected": true,
+          "max_semblance": 0.915,
+          "first_alert_time": "2018-03-06 23:30:00"
+        }
+      }
+    },
+    "control": {
+      "total": 2,
+      "false_positives": 0,
+      "events": {
+        "control_01_quiet_20180115": {
+          "name": "Popperian Control 1: Winter Quiet Day (2018-01-15)",
+          "false_alarms": 0,
+          "clean_baseline": true
+        },
+        "control_02_stormy_20180301": {
+          "name": "Popperian Control 2: Stormy Wind Disturbance (2018-03-01)",
+          "false_alarms": 0,
+          "clean_baseline": true
+        }
+      }
+    }
+  },
+  "summary_metrics": {
+    "rain_tpr_pct": 100.0,
+    "earthquake_tpr_pct": 100.0,
+    "volcano_tpr_pct": 100.0,
+    "control_fpr_pct": 0.0,
+    "all_hazards_passed": true
+  }
+}

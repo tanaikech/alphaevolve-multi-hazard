@@ -1,0 +1,209 @@
+{
+  "generated_at": "2026-10-14T10:30:18.481794",
+  "description": "Sample multi-hazard dataset (23 events) for reproducible pipeline execution",
+  "datasets": {
+    "rain_01_fuchu_20170718": {
+      "name": "Fuchu Guerrilla Storm (2017-07-18)",
+      "category": "RAIN",
+      "type": "GUERRILLA",
+      "records": 36,
+      "file": "sample_data/rain/rain_01_fuchu_20170718.csv",
+      "sha256": "6786d53e8681e5365fd5f34cf6017f3bd7ee586a61537880a550edbc301a3d42",
+      "mac_oui_verified": true
+    },
+    "rain_02_nerima_20170830": {
+      "name": "Nerima Convective Storm (2017-08-30)",
+      "category": "RAIN",
+      "type": "GUERRILLA",
+      "records": 36,
+      "file": "sample_data/rain/rain_02_nerima_20170830.csv",
+      "sha256": "b4eea7029b8be8515f662ecc0be4008a0e95d2ca715f80432c7932eb4febfd4e",
+      "mac_oui_verified": true
+    },
+    "rain_03_setagaya_20180827": {
+      "name": "Setagaya Convective Storm (2018-08-27)",
+      "category": "RAIN",
+      "type": "GUERRILLA",
+      "records": 36,
+      "file": "sample_data/rain/rain_03_setagaya_20180827.csv",
+      "sha256": "cef8d222485bcc82ca201a4e593b2ce4db7132244101941cfaa4004df7f50c8e",
+      "mac_oui_verified": true
+    },
+    "rain_04_kinki_nose_20180824": {
+      "name": "Kinki Nose Convective Storm (2018-08-24)",
+      "category": "RAIN",
+      "type": "GUERRILLA",
+      "records": 36,
+      "file": "sample_data/rain/rain_04_kinki_nose_20180824.csv",
+      "sha256": "321ed7b85698645d11107bce0bd6ae3372c31e7466f551681d854deaba43e727",
+      "mac_oui_verified": true
+    },
+    "rain_05_tamagawa_20170819": {
+      "name": "Tamagawa Convective Storm (2017-08-19)",
+      "category": "RAIN",
+      "type": "GUERRILLA",
+      "records": 36,
+      "file": "sample_data/rain/rain_05_tamagawa_20170819.csv",
+      "sha256": "d193f31b3e95c68548b174755188c9e8cfd4e3e4fddeb8582e262b987d8a1773",
+      "mac_oui_verified": true
+    },
+    "rain_06_nagoya_meito_20170729": {
+      "name": "Nagoya Meito Convective Storm (2017-07-29)",
+      "category": "RAIN",
+      "type": "GUERRILLA",
+      "records": 36,
+      "file": "sample_data/rain/rain_06_nagoya_meito_20170729.csv",
+      "sha256": "fd44ea42d5ce2c6700889863273bef6818863d1ab5899b792972f8b046b86ca3",
+      "mac_oui_verified": true
+    },
+    "rain_07_kansai_autumn_20180908": {
+      "name": "Kansai Autumn Front Storm (2018-09-08)",
+      "category": "RAIN",
+      "type": "GUERRILLA",
+      "records": 36,
+      "file": "sample_data/rain/rain_07_kansai_autumn_20180908.csv",
+      "sha256": "4088269260142f1849703112368ad1c9295296bac4e46a23c0c010f6855fc2c1",
+      "mac_oui_verified": true
+    },
+    "rain_08_typhoon18_20170917": {
+      "name": "Typhoon 18 Talim (2017-09-17)",
+      "category": "RAIN",
+      "type": "TYPHOON",
+      "records": 36,
+      "file": "sample_data/rain/rain_08_typhoon18_20170917.csv",
+      "sha256": "d83ee999947d9e00964412ee8a185e24a1a52bda1294739db1e4efed397aabd6",
+      "mac_oui_verified": true
+    },
+    "rain_09_typhoon21_20171022": {
+      "name": "Typhoon 21 Lan (2017-10-22)",
+      "category": "RAIN",
+      "type": "TYPHOON",
+      "records": 36,
+      "file": "sample_data/rain/rain_09_typhoon21_20171022.csv",
+      "sha256": "e2753cbdf2f25792667a77d6e6ee758613d4a1142940a54bc311def7b4344e9d",
+      "mac_oui_verified": true
+    },
+    "rain_10_typhoon12_20180728": {
+      "name": "Typhoon 12 Jongdari Loop (2018-07-28)",
+      "category": "RAIN",
+      "type": "TYPHOON",
+      "records": 36,
+      "file": "sample_data/rain/rain_10_typhoon12_20180728.csv",
+      "sha256": "76c70125aceb462546219766cb416a43ab62880b1de6d1c3439363fd3f8a5832",
+      "mac_oui_verified": true
+    },
+    "rain_11_typhoon21_20180904": {
+      "name": "Typhoon 21 Jebi Landfall (2018-09-04)",
+      "category": "RAIN",
+      "type": "TYPHOON",
+      "records": 36,
+      "file": "sample_data/rain/rain_11_typhoon21_20180904.csv",
+      "sha256": "caf40b86a1a890d644b76002ca48d2baeb845d1a075401011f709baa3d8a97fd",
+      "mac_oui_verified": true
+    },
+    "rain_12_typhoon20_20180823": {
+      "name": "Typhoon 20 Cimaron (2018-08-23)",
+      "category": "RAIN",
+      "type": "TYPHOON",
+      "records": 36,
+      "file": "sample_data/rain/rain_12_typhoon20_20180823.csv",
+      "sha256": "c75e9679ea672a7f9b54e0a42c87483754f2e25295c257b88585c2d85afe253f",
+      "mac_oui_verified": true
+    },
+    "rain_13_typhoon07_20260816": {
+      "name": "Typhoon 07 Ampil (2026-08-16)",
+      "category": "RAIN",
+      "type": "TYPHOON",
+      "records": 36,
+      "file": "sample_data/rain/rain_13_typhoon07_20260816.csv",
+      "sha256": "268823c6d59a5fd020cc6940a5101b4c0a70073e901247b8982baed8a9ed4042",
+      "mac_oui_verified": true
+    },
+    "rain_14_heavy_westjapan_20180705": {
+      "name": "West Japan Heavy Rain (2018-07-05)",
+      "category": "RAIN",
+      "type": "PERSISTENT_RAIN",
+      "records": 36,
+      "file": "sample_data/rain/rain_14_heavy_westjapan_20180705.csv",
+      "sha256": "77b724953acfe272163b9582fb7211f822c500d9a4909082f5f6a5b75839e0e1",
+      "mac_oui_verified": true
+    },
+    "rain_15_heavy_kyushu_20170705": {
+      "name": "Kyushu Northern Heavy Rain (2017-07-05)",
+      "category": "RAIN",
+      "type": "PERSISTENT_RAIN",
+      "records": 36,
+      "file": "sample_data/rain/rain_15_heavy_kyushu_20170705.csv",
+      "sha256": "75cf0da2add1e935c852c18125a518f734d02ab52760cc20b61dcf9551735e9d",
+      "mac_oui_verified": true
+    },
+    "eq_01_fukushima_20161122": {
+      "name": "Fukushima Offshore M7.4 (2016-11-22)",
+      "category": "EARTHQUAKE",
+      "magnitude": 7.4,
+      "records": 144,
+      "file": "sample_data/earthquake/eq_01_fukushima_20161122.csv",
+      "sha256": "ac966765b6a35e4a2a4d7e91596b38c277a5e1ad1e4bf7e3d3500606234f5a37",
+      "mac_oui_verified": true
+    },
+    "eq_02_osaka_20180618": {
+      "name": "Northern Osaka M6.1 (2018-06-18)",
+      "category": "EARTHQUAKE",
+      "magnitude": 6.1,
+      "records": 144,
+      "file": "sample_data/earthquake/eq_02_osaka_20180618.csv",
+      "sha256": "f6146a6d7eb782c65c300f5d09b0cc2d47a09f27e181590bb4cc2328d48a788d",
+      "mac_oui_verified": true
+    },
+    "eq_03_iburi_20180906": {
+      "name": "Hokkaido Iburi-Tobu M6.7 (2018-09-06)",
+      "category": "EARTHQUAKE",
+      "magnitude": 6.7,
+      "records": 144,
+      "file": "sample_data/earthquake/eq_03_iburi_20180906.csv",
+      "sha256": "64ce2be83ce65a2a193c803be4d79256fd511cc35c5964912a38afa5c4e0ef46",
+      "mac_oui_verified": true
+    },
+    "eq_04_kumamoto_20260728": {
+      "name": "Kumamoto M7.1 (2026-07-28)",
+      "category": "EARTHQUAKE",
+      "magnitude": 7.1,
+      "records": 144,
+      "file": "sample_data/earthquake/eq_04_kumamoto_20260728.csv",
+      "sha256": "1158fa4430f6b7500ec05493a48fe1a170497618fa6cf4e99368416a2dbfc8ab",
+      "mac_oui_verified": true
+    },
+    "volcano_01_kusatsu_20180123": {
+      "name": "Mt. Kusatsu-Shirane Phreatic Explosion (2018-01-23)",
+      "category": "VOLCANO",
+      "records": 522,
+      "file": "sample_data/volcano/volcano_01_kusatsu_20180123.csv",
+      "sha256": "f46ed076d2c3de6dca52ca5cceb1a928755d9f798d37102a28be69923640f933",
+      "mac_oui_verified": true
+    },
+    "volcano_02_shinmoedake_20180306": {
+      "name": "Mt. Shinmoedake Explosive Eruption (2018-03-06)",
+      "category": "VOLCANO",
+      "records": 288,
+      "file": "sample_data/volcano/volcano_02_shinmoedake_20180306.csv",
+      "sha256": "e8abc2c4a7162b302a826e4f42791954d16c6917ca90dc3f253f0cb24f022a2c",
+      "mac_oui_verified": true
+    },
+    "control_01_quiet_20180115": {
+      "name": "Popperian Control 1: Winter Quiet Day (2018-01-15)",
+      "category": "CONTROL",
+      "records": 60,
+      "file": "sample_data/control/control_01_quiet_20180115.csv",
+      "sha256": "c71771594c75b8a656336e382b965e3464abc7493146b7e0db02af25d8e6c8e9",
+      "mac_oui_verified": true
+    },
+    "control_02_stormy_20180301": {
+      "name": "Popperian Control 2: Stormy Wind Disturbance (2018-03-01)",
+      "category": "CONTROL",
+      "records": 60,
+      "file": "sample_data/control/control_02_stormy_20180301.csv",
+      "sha256": "000fba6355e64df5c47147095203f2d10f824a7b36b3ebadedd78d5754a2af21",
+      "mac_oui_verified": true
+    }
+  }
+}

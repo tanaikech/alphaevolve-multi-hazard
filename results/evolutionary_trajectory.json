@@ -1,0 +1,93 @@
+{
+  "model": "gemini-3.8-flash",
+  "generations": 10,
+  "best_fitness": 399.9752,
+  "trajectory": [
+    {
+      "generation": 0,
+      "best_fitness": -9600.0306,
+      "candidate_fitness": -9600.0306,
+      "status": "ACCEPTED"
+    },
+    {
+      "generation": 1,
+      "best_fitness": -9600.0268,
+      "candidate_fitness": -9600.0268,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 2.68
+    },
+    {
+      "generation": 2,
+      "best_fitness": -4600.0219,
+      "candidate_fitness": -4600.0219,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 2.19
+    },
+    {
+      "generation": 3,
+      "best_fitness": -4600.0219,
+      "candidate_fitness": -4600.0259,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 2.59
+    },
+    {
+      "generation": 4,
+      "best_fitness": 399.9671,
+      "candidate_fitness": 399.9671,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 3.3
+    },
+    {
+      "generation": 5,
+      "best_fitness": 399.9671,
+      "candidate_fitness": 399.9367,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 6.33
+    },
+    {
+      "generation": 6,
+      "best_fitness": 399.9744,
+      "candidate_fitness": 399.9744,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 2.56
+    },
+    {
+      "generation": 7,
+      "best_fitness": 399.9744,
+      "candidate_fitness": 399.9732,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 2.69
+    },
+    {
+      "generation": 8,
+      "best_fitness": 399.9744,
+      "candidate_fitness": 399.9641,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 3.6
+    },
+    {
+      "generation": 9,
+      "best_fitness": 399.9744,
+      "candidate_fitness": 399.9721,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 2.79
+    },
+    {
+      "generation": 10,
+      "best_fitness": 399.9752,
+      "candidate_fitness": 399.9752,
+      "mutation_type": "SYMBOLIC",
+      "status": "ACCEPTED",
+      "eval_ms": 2.48
+    }
+  ]
+}

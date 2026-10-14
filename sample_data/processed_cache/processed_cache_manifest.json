@@ -1,0 +1,279 @@
+{
+  "rain_01_fuchu_20170718": {
+    "category": "RAIN",
+    "name": "Fuchu Guerrilla Storm (2017-07-18)",
+    "cache_file": "sample_data/processed_cache/rain_01_fuchu_20170718.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_02_nerima_20170830": {
+    "category": "RAIN",
+    "name": "Nerima Convective Storm (2017-08-30)",
+    "cache_file": "sample_data/processed_cache/rain_02_nerima_20170830.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_03_setagaya_20180827": {
+    "category": "RAIN",
+    "name": "Setagaya Convective Storm (2018-08-27)",
+    "cache_file": "sample_data/processed_cache/rain_03_setagaya_20180827.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_04_kinki_nose_20180824": {
+    "category": "RAIN",
+    "name": "Kinki Nose Convective Storm (2018-08-24)",
+    "cache_file": "sample_data/processed_cache/rain_04_kinki_nose_20180824.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_05_tamagawa_20170819": {
+    "category": "RAIN",
+    "name": "Tamagawa Convective Storm (2017-08-19)",
+    "cache_file": "sample_data/processed_cache/rain_05_tamagawa_20170819.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_06_nagoya_meito_20170729": {
+    "category": "RAIN",
+    "name": "Nagoya Meito Convective Storm (2017-07-29)",
+    "cache_file": "sample_data/processed_cache/rain_06_nagoya_meito_20170729.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_07_kansai_autumn_20180908": {
+    "category": "RAIN",
+    "name": "Kansai Autumn Front Storm (2018-09-08)",
+    "cache_file": "sample_data/processed_cache/rain_07_kansai_autumn_20180908.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_08_typhoon18_20170917": {
+    "category": "RAIN",
+    "name": "Typhoon 18 Talim (2017-09-17)",
+    "cache_file": "sample_data/processed_cache/rain_08_typhoon18_20170917.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_09_typhoon21_20171022": {
+    "category": "RAIN",
+    "name": "Typhoon 21 Lan (2017-10-22)",
+    "cache_file": "sample_data/processed_cache/rain_09_typhoon21_20171022.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_10_typhoon12_20180728": {
+    "category": "RAIN",
+    "name": "Typhoon 12 Jongdari Loop (2018-07-28)",
+    "cache_file": "sample_data/processed_cache/rain_10_typhoon12_20180728.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_11_typhoon21_20180904": {
+    "category": "RAIN",
+    "name": "Typhoon 21 Jebi Landfall (2018-09-04)",
+    "cache_file": "sample_data/processed_cache/rain_11_typhoon21_20180904.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_12_typhoon20_20180823": {
+    "category": "RAIN",
+    "name": "Typhoon 20 Cimaron (2018-08-23)",
+    "cache_file": "sample_data/processed_cache/rain_12_typhoon20_20180823.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_13_typhoon07_20260816": {
+    "category": "RAIN",
+    "name": "Typhoon 07 Ampil (2026-08-16)",
+    "cache_file": "sample_data/processed_cache/rain_13_typhoon07_20260816.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_14_heavy_westjapan_20180705": {
+    "category": "RAIN",
+    "name": "West Japan Heavy Rain (2018-07-05)",
+    "cache_file": "sample_data/processed_cache/rain_14_heavy_westjapan_20180705.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "rain_15_heavy_kyushu_20170705": {
+    "category": "RAIN",
+    "name": "Kyushu Northern Heavy Rain (2017-07-05)",
+    "cache_file": "sample_data/processed_cache/rain_15_heavy_kyushu_20170705.pkl",
+    "summary": {
+      "min_dtheta_e_dt": -34.86599999999987,
+      "max_p_drop": 2.3999999999999773,
+      "max_gust_ratio": 1.8947368421052633,
+      "count": 30
+    }
+  },
+  "eq_01_fukushima_20161122": {
+    "category": "EARTHQUAKE",
+    "name": "Fukushima Offshore M7.4 (2016-11-22)",
+    "cache_file": "sample_data/processed_cache/eq_01_fukushima_20161122.pkl",
+    "summary": {
+      "max_delta_theta_e": 43.30000000000001,
+      "max_lpar": 6.011683163557831,
+      "max_dp_dt": 0.4000000000003183,
+      "count": 4
+    }
+  },
+  "eq_02_osaka_20180618": {
+    "category": "EARTHQUAKE",
+    "name": "Northern Osaka M6.1 (2018-06-18)",
+    "cache_file": "sample_data/processed_cache/eq_02_osaka_20180618.pkl",
+    "summary": {
+      "max_delta_theta_e": 44.10000000000002,
+      "max_lpar": 6.014277123315363,
+      "max_dp_dt": 0.4000000000003183,
+      "count": 4
+    }
+  },
+  "eq_03_iburi_20180906": {
+    "category": "EARTHQUAKE",
+    "name": "Hokkaido Iburi-Tobu M6.7 (2018-09-06)",
+    "cache_file": "sample_data/processed_cache/eq_03_iburi_20180906.pkl",
+    "summary": {
+      "max_delta_theta_e": 44.89999999999998,
+      "max_lpar": 6.016736767645075,
+      "max_dp_dt": 0.4000000000003183,
+      "count": 4
+    }
+  },
+  "eq_04_kumamoto_20260728": {
+    "category": "EARTHQUAKE",
+    "name": "Kumamoto M7.1 (2026-07-28)",
+    "cache_file": "sample_data/processed_cache/eq_04_kumamoto_20260728.pkl",
+    "summary": {
+      "max_delta_theta_e": 45.69999999999999,
+      "max_lpar": 6.019071162654696,
+      "max_dp_dt": 0.4000000000003183,
+      "count": 4
+    }
+  },
+  "volcano_01_kusatsu_20180123": {
+    "category": "VOLCANO",
+    "name": "Mt. Kusatsu-Shirane Phreatic Explosion (2018-01-23)",
+    "cache_file": "sample_data/processed_cache/volcano_01_kusatsu_20180123.pkl",
+    "summary": {
+      "max_semblance": 0.942,
+      "active_stations": 58,
+      "count": 9
+    }
+  },
+  "volcano_02_shinmoedake_20180306": {
+    "category": "VOLCANO",
+    "name": "Mt. Shinmoedake Explosive Eruption (2018-03-06)",
+    "cache_file": "sample_data/processed_cache/volcano_02_shinmoedake_20180306.pkl",
+    "summary": {
+      "max_semblance": 0.915,
+      "active_stations": 32,
+      "count": 9
+    }
+  },
+  "control_01_quiet_20180115": {
+    "category": "CONTROL",
+    "name": "Popperian Control 1: Winter Quiet Day (2018-01-15)",
+    "cache_file": "sample_data/processed_cache/control_01_quiet_20180115.pkl",
+    "summary": {
+      "rain": {
+        "min_dtheta_e_dt": 0.0,
+        "max_p_drop": 0.03333333333334091,
+        "max_gust_ratio": 1.0,
+        "count": 50
+      },
+      "eq": {
+        "max_delta_theta_e": 7.699999999999989,
+        "max_lpar": 2.8537902690046497,
+        "max_dp_dt": 0.20000000000027285,
+        "count": 6
+      },
+      "volc": {
+        "max_semblance": 0.22,
+        "active_stations": 10,
+        "count": 6
+      }
+    }
+  },
+  "control_02_stormy_20180301": {
+    "category": "CONTROL",
+    "name": "Popperian Control 2: Stormy Wind Disturbance (2018-03-01)",
+    "cache_file": "sample_data/processed_cache/control_02_stormy_20180301.pkl",
+    "summary": {
+      "rain": {
+        "min_dtheta_e_dt": 0.0,
+        "max_p_drop": 1.0666666666666818,
+        "max_gust_ratio": 1.8888888888888888,
+        "count": 50
+      },
+      "eq": {
+        "max_delta_theta_e": 12.0,
+        "max_lpar": 3.333333333333333,
+        "max_dp_dt": 6.400000000000318,
+        "count": 6
+      },
+      "volc": {
+        "max_semblance": 0.22,
+        "active_stations": 10,
+        "count": 6
+      }
+    }
+  }
+}
